@@ -1,0 +1,40 @@
+Accel Gyro calibration will start in 5sec.
+Please leave the device still on the flat plane.
+Mag calibration will start in 5sec.
+Please Wave device in a figure eight until done.
+Accel Gyro calibration will start in 5sec.
+Please leave the device still on the flat plane.
+Mag calibration will start in 5sec.
+Please Wave device in a figure eight until done.
+Mag Factory Calibration Values: 
+X-Axis sensitivity offset value 1.19
+Y-Axis sensitivity offset value 1.20
+Z-Axis sensitivity offset value 1.15
+Mag Calibration: Wave device in a figure eight until done!
+mag x min/max:
+-98
+278
+mag y min/max:
+-190
+306
+mag z min/max:
+-328
+158
+Mag Calibration done!
+AK8963 mag biases (mG)
+160.77, 103.95, -146.86
+AK8963 mag scale (mG)
+1.19, 0.90, 0.95
+Mag Factory Calibration Values: 
+X-Axis sensitivity offset value 1.19
+Y-Axis sensitivity offset value 1.20
+Z-Axis sensitivity offset value 1.15
+< calibration parameters >
+accel bias [g]: 
+-24.18, 10.61, 38.17
+gyro bias [deg/s]: 
+1.29, -1.43, -4.37
+mag bias [mG]: 
+160.77, 103.95, -146.86
+mag scale []: 
+1.19, 0.90, 0.95
